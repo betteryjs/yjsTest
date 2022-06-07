@@ -1,3 +1,5 @@
 add some in master
 add some thing in issus1
 add some thing in issus2	
+in new issus1 add something !
+
