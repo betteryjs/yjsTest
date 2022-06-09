@@ -4,3 +4,4 @@ add some thing in issus2
 in new issus1 add something !
 add some thing in new issus2	
 add commit 1
+pull get data
